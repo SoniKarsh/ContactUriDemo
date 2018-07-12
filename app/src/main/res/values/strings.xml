@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactUriDemo</string>
+    <string name="view">View</string>
+    <string name="add">Add</string>
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_frag">Add</string>
+    <string name="deleteFrag">Delete</string>
+    <string name="enter_name_frag">Enter Name</string>
+</resources>
